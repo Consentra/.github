@@ -1,6 +1,7 @@
 # Welcome to Consentra
 
 Consentra is an AI-powered, cross-chain decentralized governance platform designed to simplify and enhance DAO participation. With features like intelligent proposal automation, soulbound NFT-based verification, and secure multi-chain smart contracts, Consentra empowers communities to govern more effectively and transparently.
+
 [White Paper](https://tinyurl.com/consentra-whitepaper)
 ---
 
